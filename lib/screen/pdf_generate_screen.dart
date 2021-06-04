@@ -29,9 +29,9 @@ class _PdfPageState extends State<PdfPage> {
                     Icon(Icons.picture_as_pdf, size: 100, color: Colors.white),
                     const SizedBox(height: 16),
                     Text(
-                      "Get invoice",
+                      "Invoice Pdf here",
                       style: TextStyle(
-                        fontSize: 42,
+                        fontSize: 18,
                         fontWeight: FontWeight.w400,
                         color: Colors.white,
                       ),
